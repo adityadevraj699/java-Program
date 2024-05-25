@@ -26,6 +26,7 @@ public class ElementLarger {
     }
     System.out.println("The Maximum Element of Array is :-  "+max);
     System.out.println("The Minimum Element of Array is :-  "+min);
+    A.close();
 
    } 
 }
